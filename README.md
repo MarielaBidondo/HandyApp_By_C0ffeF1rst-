@@ -34,6 +34,8 @@ npm start
 
 Connect Metamask with the application
 
+//In oreder to run the crypto without any problem it is necesary to have installed web3@1.0.35 or similar version
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
