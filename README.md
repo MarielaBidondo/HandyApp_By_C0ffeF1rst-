@@ -1,4 +1,4 @@
-# HandyApp by  C0ffeF1rst
+# HandyApp by  C0ffeeF1rst
 Webapplication using MERN technologies 
 
 # HandyApp
