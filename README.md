@@ -19,6 +19,9 @@ npm install
 
 nodemon or node server
 
+
+// In order to run the app run back and front at the same time in different bash
+
 Crypto coin
 
 npm install
